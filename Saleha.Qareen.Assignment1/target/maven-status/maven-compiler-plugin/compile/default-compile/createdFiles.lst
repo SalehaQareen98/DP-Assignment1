@@ -1,0 +1,8 @@
+dataaccesslayer\RecipientsDao.class
+dataaccesslayer\DataSource.class
+dataaccesslayer\RecipientsDaoImpl.class
+businesslayer\ValidationException.class
+businesslayer\RecipientValidation.class
+SalehaQareenAssignment1.class
+transferobjects\RecipientDTO.class
+businesslayer\RecipientsBusinessLogic.class
