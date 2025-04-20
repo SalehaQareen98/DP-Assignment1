@@ -1,0 +1,6 @@
+Launcher.class
+model\ColorModel.class
+presenter\ColorPresenter.class
+Launcher$1.class
+view\ColorView.class
+view\ColorView$1.class
